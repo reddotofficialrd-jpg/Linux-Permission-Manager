@@ -38,5 +38,6 @@ The primary objective is to explore the Linux permission model (User, Group, and
 <img width="975" height="652" alt="image" src="https://github.com/user-attachments/assets/365549a4-4e11-47cc-aba2-e629a6f1d360" />
 <img width="1582" height="127" alt="image" src="https://github.com/user-attachments/assets/d19bdd74-0c8b-4485-8ac9-babd730121cc" />
 <img width="637" height="120" alt="image" src="https://github.com/user-attachments/assets/97efa039-671c-4445-b80c-dcb73c33373d" />
+<img width="1587" height="132" alt="image" src="https://github.com/user-attachments/assets/ddee2e7e-c0e1-475b-a786-815489aec5f7" />
 
 
